@@ -1,61 +1,120 @@
-# [Your Name] - Data Analysis Portfolio
+# 🌐 Professional Data & IT Portfolio Website
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+##  Overview
 
-## About This Portfolio Template
+This is a professional portfolio website designed and developed to showcase my expertise in **Data Analysis, IT Systems, Software Engineering, and Web Development**. It serves as a centralized platform for presenting projects, technical skills, professional achievements, and contact information.
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+The portfolio is publicly hosted using **GitHub Pages**:
+ [https://amollo1.github.io/](https://amollo1.github.io/)
 
-## 🚀 Projects
+---
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+##  Purpose
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+The website is built to:
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+* Showcase real-world data, IT, and software development projects
+* Highlight technical skills and professional competencies
+* Provide access to project documentation and live demos
+* Enable easy networking and collaboration opportunities
+* Serve as a continuously evolving digital CV and portfolio
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+---
 
+##  Tech Stack
 
-## 🛠️ Skills
+* **Frontend:** HTML5, CSS3, JavaScript
+* **Styling:** Custom CSS with responsive design principles
+* **Hosting:** GitHub Pages
+* **Contact Form:** FormSubmit integration
+* **Version Control:** Git & GitHub
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
+---
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+##  Features
 
-## 💡 How to Use This Template
+* Responsive and mobile-friendly design
+* Professional landing page with personal branding
+* Project showcase section with detailed descriptions
+* Technical skills categorized into:
 
-Creating your own portfolio from this template is a simple, four-step process.
+  * Data Analysis & Visualization
+  * Software Engineering
+  * Web Development
+* Integrated social media links (LinkedIn, GitHub, YouTube)
+* Downloadable CV option
+* Functional contact form for direct communication
+* Live project demos and GitHub repository links
 
-### 1. Create a New Repository from this Template
-Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
+---
 
-### 2. Name Your Repository for GitHub Pages
-This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
-`your-username.github.io`
-*(Replace `your-username` with your actual GitHub username.)*
+##  Project Structure
 
-### 3. Customize Your Portfolio
-Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
-- Your name and title
-- Social media links
-- The "About Me" section
-- Your project titles, descriptions, and links
-- Your list of skills
+```
+portfolio-website/
+│
+├── index.html
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── main.js
+│   ├── images/
+│   │   ├── Profile Photo.jpg
+│   │   ├── Sales_Dashboard.jpeg
+│   │   ├── Sales_System_Dashboard.png
+│   │   └── Website_Image.png
+│
+└── README.md
+```
 
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
-- Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
+---
 
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
+##  Featured Projects
+
+### 📊 FNP Sales Trends Analysis Dashboard (Excel BI Project)
+
+An interactive Excel-based dashboard analyzing sales performance, customer behavior, product trends, and delivery efficiency using Power Query, Power Pivot, and Pivot Tables.
+
+### 🛒 Retail Sales & Profit Management System (Python + Streamlit)
+
+A real-time sales and inventory management system built using Python, Streamlit, and SQLite with dashboards for sales tracking, profit analysis, and reporting.
+
+###  Portfolio Website (HTML, CSS, JavaScript)
+
+A responsive personal portfolio website showcasing professional projects, skills, and achievements with integrated contact and social media features.
+
+---
+
+##  Key Capabilities Demonstrated
+
+* Data Cleaning & Analysis
+* Dashboard Development (Excel, BI concepts)
+* Database Management (SQLite)
+* Web Development (Frontend + UI Design)
+* Software Development using Python
+* Data Visualization & Reporting
+* Version Control using Git & GitHub
+
+---
+
+##  Contact
+
+*  Email: [benardomoga86@gmail.com](mailto:benardomoga86@gmail.com)
+*  LinkedIn: [https://www.linkedin.com/in/benard-omoga-870b77145/](https://www.linkedin.com/in/benard-omoga-870b77145/)
+*  GitHub: [https://github.com/Amollo1](https://github.com/Amollo1)
+*  YouTube: [https://www.youtube.com/@DataWithOmoga](https://www.youtube.com/@DataWithOmoga)
+
+---
+
+##  License
+
+This project is open for educational and professional reference purposes. All rights reserved © 2026.
+
+---
+
+##  Author
+
+**Benard Onyango Omoga**
+Data Analyst | IT Specialist | Software Engineer | Web Developer
+Nairobi, Kenya
