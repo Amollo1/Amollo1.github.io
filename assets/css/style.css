@@ -64,23 +64,25 @@ img {
 header {
     background: var(--primary-color);
     color: var(--white-color);
-    padding: 70px 0;
+    padding: clamp(45px, 8vw, 70px) 0;
     text-align: center;
 }
 
 header h1 {
     font-family: var(--font-heading);
-    font-size: 4rem;
+    font-size: clamp(2.2rem, 6vw, 4rem);
     font-weight: 700;
     margin-bottom: 15px;
     letter-spacing: 1px;
+    line-height: 1.2;
 }
 
 header p {
-    font-size: 1.3rem;
+    font-size: clamp(1rem, 2.5vw, 1.3rem);
     font-weight: 300;
     opacity: 0.9;
     margin-bottom: 35px;
+    line-height: 1.6;
 }
 
 /* --- 3.5 Social Icons --- */
