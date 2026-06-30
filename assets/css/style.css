@@ -78,7 +78,7 @@ header h1 {
 }
 
 header p {
-    font-size: 1.3rem;
+    font-size: clamp(1rem, 2.5vw, 1.3rem);
     font-weight: 300;
     opacity: 0.9;
     margin-bottom: 35px;
