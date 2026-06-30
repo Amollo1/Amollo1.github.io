@@ -434,17 +434,10 @@ footer p {
 }
 
 @media (max-width: 768px) {
-     /* Header */
-    header {
-        padding: 50px 20px;
-    }
     header h1 {
-        line-height: 1.2;
+        font-size: 2.8rem;
     }
-    header p {
-        margin-bottom: 25px;
-    }
-    /* About */
+    
     .about-content {
         flex-direction: column;
         text-align: center;
@@ -457,8 +450,6 @@ footer p {
     .projects-grid {
         grid-template-columns: repeat(2, 1fr);
     }
-     
-    /* Skills */
 
     .skills-table {
         grid-template-columns: 1fr;
