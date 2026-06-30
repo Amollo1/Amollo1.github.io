@@ -88,10 +88,14 @@ header p {
 /* --- 3.5 Social Icons --- */
 .social-links a {
     color: var(--white-color);
-    font-size: 1.6rem;
+    font-size: clamp(1.3rem, 3vw, 1.6rem);
     margin: 0 15px;
     transition: transform 0.3s ease, color 0.3s ease;
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 18px;
 }
 
 .social-links a:hover {
